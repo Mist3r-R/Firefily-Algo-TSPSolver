@@ -1,0 +1,20 @@
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\FireflyAlgorithm\bin\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\FireflyAlgorithm\bin\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\FireflyAlgorithm\bin\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\FireflyAlgorithm\bin\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\FireflyAlgorithm\bin\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\FireflyAlgorithm\bin\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\FireflyAlgorithm\bin\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\FireflyAlgorithm\bin\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\FireflyAlgorithm\obj\Debug\FireflyAlgorithm.pdb

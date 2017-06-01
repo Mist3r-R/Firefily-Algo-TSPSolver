@@ -1,0 +1,68 @@
+\\mac\home\documents\visual studio 2015\Projects\TSP FA\MainForm\bin\Debug\MainForm.exe.config
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.exe.config
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.exe
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.pdb
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.exe
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.pdb
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.Main_Form.resources
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.Info_form.resources
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.exe.config
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.exe
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.pdb
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.exe
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.pdb
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.Info_form.resources
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.Main_Form.resources
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.DataForm.resources
+\\Mac\Home\Downloads\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.DataForm.resources
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.exe.config
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.exe
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.pdb
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.DataForm.resources
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.Info_form.resources
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.Main_Form.resources
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.exe
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.pdb
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Desktop\курсач temp\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Desktop\курсач one algo\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.exe.config
+\\Mac\Home\Desktop\курсач one algo\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.exe
+\\Mac\Home\Desktop\курсач one algo\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.pdb
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.exe.config
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.exe
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.pdb
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.exe
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.pdb
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\FireflyAlgorithm.dll
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\FireflyAlgorithm.pdb
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.DataForm.resources
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.InfoForm.resources
+\\Mac\Home\Desktop\курсач\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.MainForm.resources
+E:\курсач\Курсовая\Курсач\TSP FA\MainForm\bin\Debug\MainForm.exe.config
+E:\курсач\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.exe
+E:\курсач\Курсовая\Курсач\TSP FA\MainForm\obj\Debug\MainForm.pdb
+\\Mac\Home\Desktop\Роговец КР 2016\VS Project\TSPSolver\MainForm\bin\Debug\MainForm.exe.config
+\\Mac\Home\Desktop\Роговец КР 2016\VS Project\TSPSolver\MainForm\obj\Debug\MainForm.exe
+\\Mac\Home\Desktop\Роговец КР 2016\VS Project\TSPSolver\MainForm\obj\Debug\MainForm.pdb
+Z:\Studies\Coursework\Роговец КР 2016\VS Project\TSPSolver\MainForm\bin\Debug\MainForm.exe.config
+Z:\Studies\Coursework\Роговец КР 2016\VS Project\TSPSolver\MainForm\obj\Debug\MainForm.exe
+Z:\Studies\Coursework\Роговец КР 2016\VS Project\TSPSolver\MainForm\obj\Debug\MainForm.pdb
+Z:\Studies\Coursework2016\Роговец КР 2016\VS Project\TSPSolver\MainForm\bin\Debug\MainForm.exe.config
+Z:\Studies\Coursework2016\Роговец КР 2016\VS Project\TSPSolver\MainForm\obj\Debug\MainForm.exe
+Z:\Studies\Coursework2016\Роговец КР 2016\VS Project\TSPSolver\MainForm\obj\Debug\MainForm.pdb
